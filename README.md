@@ -37,7 +37,7 @@ random-color-generator/
 1. Clone or download the repository.
 ```bash
 git clone https://github.com/Jaroslaw-Baumgart/random_background
-cd quotes_app
+cd random_background
 ```
 3. Open the project folder in **VS Code**.
 4. Right-click on `random color.html` and select **"Open with Live Server"**.
