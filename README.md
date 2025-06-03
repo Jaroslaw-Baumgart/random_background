@@ -35,10 +35,14 @@ random-color-generator/
 ### ▶️ Steps
 
 1. Clone or download the repository.
-2. Open the project folder in **VS Code**.
-3. Right-click on `random color.html` and select **"Open with Live Server"**.
-4. A new browser tab will open at `http://127.0.0.1:5500/` (or similar).
-5. Click the **Generate Random Color** button to see a new background and HEX color code.
+```bash
+git clone https://github.com/Jaroslaw-Baumgart/random_background
+cd quotes_app
+```
+3. Open the project folder in **VS Code**.
+4. Right-click on `random color.html` and select **"Open with Live Server"**.
+5. A new browser tab will open at `http://127.0.0.1:5500/` (or similar).
+6. Click the **Generate Random Color** button to see a new background and HEX color code.
 
 ---
 
